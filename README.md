@@ -1,0 +1,2 @@
+# statistics2021
+This course is an introduction to probability and statistics. Main goal is to teach students how to apply various statistical concepts to decision making under uncertainty. After this course, students should be able to analyze data and relationships among variables using both descriptive and inferential statistics, and to evaluate and update decision alternatives so that they can find solutions to real life business problems.
