@@ -11,6 +11,11 @@ In this module, we will be covering the topics of numerical descriptive measures
 5.  Apply Chebyshev's theorem, the empirical rule, and z-scores
 6.  Calculate and interpret measures of association
 
+## Lecture Recordings
+
+*  [Descriptive Measures Presentation](https://youtu.be/hfJovRPOZyM)
+*  [Python Demo](https://youtu.be/yRs-mnprGNo)
+
 ###### Introduction Video:
 
 *   [The Shape of Data: Distributions: Crash Course Statistics #7](https://youtu.be/bPFNxD3Yg6U)
