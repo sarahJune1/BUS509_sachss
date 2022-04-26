@@ -1,3 +1,5 @@
+## Statistical Inference Concerning Variance and Chi-Square Tests
+
 ###### Module Introduction:
 
 Oh-my-goodness of fit! In this module, we will build upon the previous discussion of the X2 distribution and use it to make inferences about the population variance. We will conduct goodness-of-fit to test our hypothesis of difference between two or more population proportions, independence, and homogeneity. 
