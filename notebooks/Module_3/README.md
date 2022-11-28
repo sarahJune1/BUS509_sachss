@@ -1,8 +1,8 @@
-###### Module Introduction:
+# Module Introduction:
 
 In this module, we will be covering the topics of numerical descriptive measures. This provides the foundation for analyzing data as information.
 
-###### Module Learning Objectives:  
+## Module Learning Objectives:  
 
 1.  Calculate and interpret central tendency
 2.  Interpret percentiles and boxplots
@@ -16,12 +16,12 @@ In this module, we will be covering the topics of numerical descriptive measures
 *  [Descriptive Measures Presentation](https://youtu.be/hfJovRPOZyM)
 *  [Python Demo](https://youtu.be/yRs-mnprGNo)
 
-###### Introduction Video:
+### Introduction Video:
 
 *   [The Shape of Data: Distributions: Crash Course Statistics #7](https://youtu.be/bPFNxD3Yg6U)
 *   [Correlation Doesn’t Equal Causation: Crash Course Statistics #8](https://www.youtube.com/watch?v=GtV-VYdNt_g)
 
-###### Reading:
+### Reading:
 
 *   Chapter 3: Numerical Descriptive Measures
     *   Sections 3.1-3.2
