@@ -1,8 +1,8 @@
-###### Module Introduction:
+# Module Introduction:
 
 This module is an introduction to probability. We will dive into fundamental probability concepts and apply the rules of probability to inform future likelihoods. 
 
-###### Module Learning Objectives:
+## Module Learning Objectives:
 
 1.  Describe fundamental probability concepts
 2.  Calculate and interpret probabilities
