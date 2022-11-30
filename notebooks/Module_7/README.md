@@ -1,10 +1,6 @@
-###### Module Introduction:
-
-In this module, we will build upon the previous lesson on the normal distribution and dive into the details of sampling distributions, such as how we measure the sample mean and leverage the central limit theorem to make inferences about a population. We will apply these concepts to develop a control chart as it relates to Quality Control.
-
 # Module Introduction:
 
-In this module, we will focus on estimation through inference testing. Specifically, we will use a confidence interval to approximate a range of values an estimate of the parameter can take. 
+In this module, we will build upon the previous lesson on the normal distribution and dive into the details of sampling distributions, such as how we measure the sample mean and leverage the central limit theorem to make inferences about a population. We will apply these concepts to develop a control chart as it relates to Quality Control.
 
  
 ## Module Learning Objectives:  
